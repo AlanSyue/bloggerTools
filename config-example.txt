@@ -1,0 +1,11 @@
+{
+	"google" : {
+		"blogId" : {blogId},
+		"apiKey" : {apiKey}
+	},
+
+	"facebook" : {
+		"facebookId" : {facebookFanPageId},
+		"accessToken" : {accessToken}
+	}
+}
