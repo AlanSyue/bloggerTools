@@ -109,7 +109,7 @@ if __name__ == '__main__':
 	newPostIdsArray = alreadyPostId + notPostIds
 	record_post_id(newPostIdsArray)
 
-	print('auto post success')
+	print('auto post success！')
 
 
 
